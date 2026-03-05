@@ -15,5 +15,6 @@ Se realizo en:
 * **Motor de Base de Datos:** PostgreSQL. versión 18
 * **Gestor:** pgAdmin 4.
 * **Lenguaje:** SQL
-* <img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/136b5e3d-e412-4492-835d-ef85af23eb2a" />
+*<img width="1905" height="1026" alt="image" src="https://github.com/user-attachments/assets/5872c69d-fef6-478d-bfae-c4eb731cf445" />
+
 
